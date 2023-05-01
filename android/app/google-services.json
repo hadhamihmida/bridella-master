@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381082995476",
+    "project_id": "bridella-eb876",
+    "storage_bucket": "bridella-eb876.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381082995476:android:7462564cac606b52999001",
+        "android_client_info": {
+          "package_name": "com.example.bridella"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381082995476-l9hqdlnp2f3rvh2hsdee2nolqpdrcpsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKGA4jYLyrFycRfKnOizxab8Y0onuQ7ME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381082995476-l9hqdlnp2f3rvh2hsdee2nolqpdrcpsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
